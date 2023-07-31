@@ -3,6 +3,7 @@
 ### About Me
 - I'm currently interested in frontend development and the field of artificial intelligence.
 - I love to explore and learn about new things.
+- Notion: [JinyWiki](https://jinyshin.notion.site/JinyWiki-4c86c7bf84f242c8ae8075e02d0cca7b?pvs=4)
 
 ### Technologies I Use
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
