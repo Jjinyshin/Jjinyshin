@@ -21,3 +21,5 @@ Feel free to contact me!
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iwbm312@gmail.com)](mailto:iwbm312@gmail.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJjinyshin&count_bg=%232B80FF&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<a href="https://app.daily.dev/jinyshin"><img src="https://api.daily.dev/devcards/18ca7d63baf74ef1bfa8972f7b98643b.png?r=jf3" width="400" alt="Jinyoung Shin's Dev Card"/></a>
