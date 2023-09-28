@@ -27,7 +27,7 @@ Feel free to contact me!
 - Participated in [[Flutter] Code in Songdo event](https://gdg.community.dev/events/details/google-gdg-songdo-presents-flutter-code-in-songdo-2022-12-17-1/) (2022.12.17 ~ 2023.01.28)
 - University Union Ideathon '공명' : first-place `(2022.10.01)`
 - Participated in UC Berkeley Summer Session `(2022.06 ~ 2022.08)`
-- Sookmyung Women's University m-Business IR Contest : Encouragement prize `(2022.11 ~ 2022.12)`
+- Sookmyung Women's University m-Business IR Contest : Encouragement Award `(2022.11 ~ 2022.12)`
 - Participated in the '2022 Big Data Boom-Up Workshop' & 'Datathon Competition' : Encouragement Award `(2022.02.23 ~ 2022.02.25)`
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinyoung-shin/)](https://www.linkedin.com/in/jinyoung-shin/) 
