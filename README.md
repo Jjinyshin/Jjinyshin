@@ -20,7 +20,7 @@ Feel free to contact me!
 - 네가 원하는 진짜 선물, 위위시 WeWish - [Google Play](https://play.google.com/store/apps/details?id=com.codeinsongdo.wewish) (2022.12 ~ 2023.01), Stack: Flutter, Firebase
 
 ## Experience
-- The 2nd Shin.Big.Hae (Shinhan Financial Group Big Data Hackathon): Won the Grand Prize (1st place) in the Shinhan Life category. `(2023.10.10)`
+- The 2nd Shin.Big.Hae (Shinhan Financial Group Big Data Hackathon): Grand Prize (1st place) in the Shinhan Life category. `(2023.10.10)`
 - GDSC Sookmyung Core Member `(2023.10 ~ )`
 - Sookmyung APPS 10th Vice President `(2023.03 ~ 2023.12)`
 - Sookmyung APPS, Mobile App Development Club, 9th Member `(2022.03 ~ 2022.12)`
