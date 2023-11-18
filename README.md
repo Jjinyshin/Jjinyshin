@@ -10,25 +10,27 @@ Feel free to contact me!
 ## Interest
 - Web development (feat. React, FastAPI)
 - Flutter with Firebase and Flask
+- Cloud Computing with AWS
 - Data Analysis
-- Cloud Computing with AWS, NLP, Database (Currently studying)
+- Database, Computer Network
+- NLP
 
 ## Projects
 - 희귀·난치성 질환자들을 위한 서비스 Unibond, 배리어프리 앱 개발 콘테스트 진행 중(2023.05 ~ ), Stack: Flutter
-- 머신러닝과 데이터 분석을 활용한 해양쓰레기 신고 앱 Wave 개발 중 (2023.04 ~ ), Stack: Flutter
 - 네가 원하는 진짜 선물, 위위시 WeWish - [Google Play](https://play.google.com/store/apps/details?id=com.codeinsongdo.wewish) (2022.12 ~ 2023.01), Stack: Flutter, Firebase
 
-## Experience  
-<!-- - [FE CREW](https://github.com/fe-crew) management team -->
+## Experience
+- The 2nd Shin.Big.Hae (Shinhan Financial Group Big Data Hackathon): Won the Grand Prize (1st place) in the Shinhan Life category. `(2023.10.10)`
+- GDSC Sookmyung Core Member `(2023.10 ~ )`
 - Sookmyung APPS 10th Vice President `(2023.03 ~ 2023.12)`
 - Sookmyung APPS, Mobile App Development Club, 9th Member `(2022.03 ~ 2022.12)`
 - Teaching Assistant of '쉽게 이해하는 데이터사이언스 기초' mini-course `(2023.05 ~ 2023.08)`
 - Participated in 'Startup School: Student Edition' program hosted by 'Google for Startups Campus' `(2023.03 ~ 2023.04)`
 - Participated in [[Flutter] Code in Songdo event](https://gdg.community.dev/events/details/google-gdg-songdo-presents-flutter-code-in-songdo-2022-12-17-1/) `(2022.12.17 ~ 2023.01.28)`
-- Sookmyung Women's University m-Business IR Contest : Encouragement Award `(2022.11 ~ 2022.12)`
-- University Union Ideathon '공명' : first-place `(2022.10.01)`
+- Sookmyung Women's University m-Business IR Contest: Encouragement Award `(2022.11 ~ 2022.12)`
+- University Union Ideathon '공명': 1st place `(2022.10.01)`
 - Participated in UC Berkeley Summer Session `(2022.06 ~ 2022.08)`
-- Participated in the '2022 Big Data Boom-Up Workshop' & 'Datathon Competition' : Encouragement Award `(2022.02.23 ~ 2022.02.25)`
+- Participated in the '2022 Big Data Boom-Up Workshop' & 'Datathon Competition': Encouragement Award `(2022.02.23 ~ 2022.02.25)`
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinyoung-shin/)](https://www.linkedin.com/in/jinyoung-shin/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jinyshin/)](https://www.instagram.com/jinyshin/) 
