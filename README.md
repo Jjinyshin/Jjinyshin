@@ -12,7 +12,7 @@ Feel free to contact me!
 - Flutter with Firebase
 
 ## Projects
-- 청소년 희귀·난치성 질환자를 위한 서비스 Unibond - [Google Play](https://play.google.com/store/apps/details?id=com.unibond.jijijin&hl=ko)(2023.11 ~ 2024.01), Stack: Flutter
+- 청소년 희귀·난치성 질환자를 위한 서비스 Unibond - [Google Play](https://play.google.com/store/apps/details?id=com.unibond.jijijin&hl=ko) (2023.11 ~ 2024.01), Stack: Flutter
 - 네가 원하는 진짜 선물, 위위시 WeWish - [Google Play](https://play.google.com/store/apps/details?id=com.codeinsongdo.wewish) (2022.12 ~ 2023.01), Stack: Flutter, Firebase
 
 ## Experience
